@@ -1,0 +1,6 @@
+name: EnrichmentGems
+version: ${project.version}
+main: me.x1xx.enrichmentgems.EnrichmentGems
+api-version: 1.16
+authors: [ X1XX ]
+description: Enriches your gems.
